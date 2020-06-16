@@ -67,7 +67,7 @@ svg {
 	
   }
   .socket{
-	transform: scale(3);
+	transform: scale(2);
 	width: 200px;
 	height: 200px;
 	position: absolute;
@@ -566,11 +566,11 @@ body {
   :-ms-input-placeholder {
 	color: #888;
   }
-header{
+.sample {
 	background-image: url(../1.jpg);
-	height: 100vh;
+	height: 620px;
 	background-size: cover;
-	
+	margin: 0px !important;
 }
 .background img{
     width: 1348px;
@@ -579,6 +579,8 @@ header{
 	background-attachment: fixed;
 
 }
+
+
 
 marquee	{
 	color: #f0db75;
@@ -666,6 +668,8 @@ ul li.active a{
     background-color: white;
 	color: black;
 }
+/* 
+Sample change */
 
 .logo img{
 	float: left;
